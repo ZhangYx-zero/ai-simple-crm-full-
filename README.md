@@ -1,6 +1,6 @@
 # AI-CRM-FULL （完整版）
 
-> 这是与你手上 `ai-crm` (仓库位置为"https://github.com/ZhangYx-zero/ai-simple-crm.git")登录骨架配套的 **完整实现版**。
+> 这是与你手上 `ai-crm` (仓库位置为 "https://github.com/ZhangYx-zero/ai-simple-crm.git" )登录骨架配套的 **完整实现版**。
 > 包名仍是 `com.aicrm`，方便两个项目逐文件对照；数据库独立（`ai_crm_full`），互不影响。
 > 用途：你看完骨架自己写一遍，再拿本项目的完整代码对照"我漏了哪、哪里该这么做"，用于面试和简历。
 
